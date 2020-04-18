@@ -1,0 +1,14 @@
+{
+  "name": "boty",
+  "version": "1.0.0",
+  "description": "This bot will delete harmfull messages",
+  "main": "¨",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PROKI2005",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
